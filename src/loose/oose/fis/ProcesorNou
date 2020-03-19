@@ -1,0 +1,4 @@
+class ProcesorNou extends  Procesor
+{
+    String numeProcesor;
+}
